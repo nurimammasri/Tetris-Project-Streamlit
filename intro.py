@@ -241,3 +241,6 @@ if angka % 2 == 0:
     st.success("Angka genap")
 else:
     st.error("Angka ganjil")
+
+
+df
